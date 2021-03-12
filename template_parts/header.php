@@ -101,6 +101,12 @@
                   <p>Wordpress</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="?dir=template_parts&file=installing_theme&title=Install Theme" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Theme</p>
+                </a>
+              </li>
             </ul>
           </li>
           <li class="nav-item">
